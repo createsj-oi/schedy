@@ -1,0 +1,2 @@
+# schedy
+study schedule
